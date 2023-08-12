@@ -17,5 +17,6 @@ public class ControlMoneyApplication {
 	public String hello(){
 
 		return "Hello word";
+		
 	}
 }
